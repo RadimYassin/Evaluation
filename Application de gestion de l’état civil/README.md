@@ -4,7 +4,7 @@ Fonctionnalités et exemples
 Le programme crée automatiquement 10 femmes et 5 hommes.
 
 Exemple de sortie :
-![Screenshot](images/2.png)
+![Screenshot](images/1.png)
 
 
 2. Afficher la liste des femmes
