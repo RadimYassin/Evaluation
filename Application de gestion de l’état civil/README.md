@@ -4,6 +4,8 @@ Fonctionnalités et exemples
 Le programme crée automatiquement 10 femmes et 5 hommes.
 
 Exemple de sortie :
+
+
 ![Screenshot](images/1.png)
 
 
@@ -12,6 +14,8 @@ Exemple de sortie :
 Affiche toutes les femmes avec leur nom et âge.
 
 Exemple de sortie :
+
+
 ![Screenshot](images/2.png)
 
 
@@ -21,13 +25,16 @@ Calcule et affiche la femme la plus âgée.
 
 Exemple de sortie :
 
+
 ![Screenshot](images/3.png)
+
 
 4. Afficher les épouses d’un homme donné
 
 Entrer le nom d’un homme pour afficher toutes ses épouses.
 
 Exemple de sortie :
+
 ![Screenshot](images/4.png)
 
 
@@ -44,6 +51,7 @@ Exemple de sortie :
 Le programme recherche toutes les femmes ayant eu deux mariages ou plus.
 
 Exemple de sortie :
+
 ![Screenshot](images/6.png)
 
 
@@ -52,5 +60,6 @@ Exemple de sortie :
 Entrer deux dates pour filtrer les hommes mariés exactement quatre fois durant cette période.
 
 Exemple de sortie :
+
 ![Screenshot](images/7.png)
 
